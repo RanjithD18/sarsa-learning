@@ -80,6 +80,7 @@ def sarsa(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio=0.5,
 
 ### Optimal Policy:
 <img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/1f4fdf5c-6142-4194-b408-040fa4fa5716">
+![image](https://github.com/RanjithD18/sarsa-learning/assets/93427221/6bb9725e-3ef7-4c5e-a13c-675db502325f)
 
 
 ### First Visit Monte Carlo Method:
