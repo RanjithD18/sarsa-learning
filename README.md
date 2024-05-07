@@ -79,25 +79,25 @@ def sarsa(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio=0.5,
 ## OUTPUT:
 
 ### Optimal Policy:
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/1f4fdf5c-6142-4194-b408-040fa4fa5716">
-![image](https://github.com/RanjithD18/sarsa-learning/assets/93427221/6bb9725e-3ef7-4c5e-a13c-675db502325f)
+<img width="553" alt="image" src="https://github.com/RanjithD18/sarsa-learning/assets/93427221/6bb9725e-3ef7-4c5e-a13c-675db502325f">
+
 
 
 ### First Visit Monte Carlo Method:
 
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/640e34aa-2f12-4e0d-855d-14a9adc98e8a">
+<img width="553" alt="image" src="https://github.com/RanjithD18/sarsa-learning/assets/93427221/452c6e17-6f7a-4168-a7c9-674e5c14bdac">
 
 ### SARSA Learning Algorithm:
 
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/42a7d093-dd4f-4ba7-b426-3c6d884bf2db">
+<img width="553" alt="image" src="https://github.com/RanjithD18/sarsa-learning/assets/93427221/3b8dd269-9837-4d9d-a201-c72e3101398c">
 
 ### Plot for State Value Function - Monte Carlo:
 
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/1aae6455-9beb-4974-8661-783dd4958ce5">
+<img width="553" alt="image" src="https://github.com/RanjithD18/sarsa-learning/assets/93427221/d504b5aa-8531-45ac-a172-c746c9d1c2d3">
 
 ### Plot for State Value Function - SARSA Learning:
 
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/3252d7ed-c2a3-480d-9a5c-2e7412a59a5f">
+<img width="553" alt="image" src="https://github.com/RanjithD18/sarsa-learning/assets/93427221/bbf1f32d-68a4-4526-b62a-332452607641">
 
 
 ## RESULT:
